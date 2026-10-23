@@ -1,0 +1,23 @@
+# Output images
+*.jpg
+*.jpeg
+*.png
+
+# Video files
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wmv
+*.m4v
+*.webm
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
